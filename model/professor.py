@@ -1,4 +1,4 @@
-from person import Person
+from model.person import Person
 
 class Professor(Person):
 
